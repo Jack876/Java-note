@@ -8,3 +8,16 @@ public class CreateObject {
 		new CreateObject();
 	}
 }
+
+
+下面的方法包含2个参数num1和num2，它返回这两个参数的最大值。
+/** 返回两个整型变量数据的较大值 */
+public static int max(int num1, int num2) {
+   int result;
+   if (num1 > num2)
+      result = num1;
+   else
+      result = num2;
+
+   return result; 
+}
