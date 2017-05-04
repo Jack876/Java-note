@@ -191,3 +191,9 @@ public class ScannerDemo {
 
     }  
 } 
+
+$ javac ScannerDemo.java
+$ java ScannerDemo
+next方式接收：
+youj com
+输入的数据为：youj
